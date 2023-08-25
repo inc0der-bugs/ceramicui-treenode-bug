@@ -1,0 +1,3 @@
+<vbox style="padding: 5px;" width="100%" height="100%">
+  <tree-view id="tv1" width="200" height="100%" />
+</vbox>
